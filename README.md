@@ -2,7 +2,7 @@
 
 ## Day 1
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/lUnZL8Zj32.gif" alt="Banner that says Emma Elkan - A cartoon dog pops up and down">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/lUnZL8Zj32.gif" alt="Gif of pycharm and catconfig">
 
 ### Resources
 
