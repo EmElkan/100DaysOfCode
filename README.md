@@ -7,6 +7,7 @@
 ### Resources
 
 - https://chatterbot.readthedocs.io/en/stable/
+- https://github.com/gunthercox/chatterbot-corpus
 
 ## Day 1
 
