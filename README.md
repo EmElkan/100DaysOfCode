@@ -2,7 +2,7 @@
 
 ## Day 2
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/chat-bot.gif" alt="Gif of pycharm and catconfig">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/chat-bot.gif" alt="Gif of terminal">
 
 ### Resources
 
