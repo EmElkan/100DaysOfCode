@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+## Day 3
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day3.PNG" alt="Image of free code camp completed html">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 2
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/chat-bot.gif" alt="Gif of terminal">
