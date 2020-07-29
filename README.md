@@ -1,8 +1,17 @@
 # 100DaysOfCode
 
+## Day 5
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day5.PNG" alt="Image of free code camp completed stage" width="650">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
+
 ## Day 4
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day4.PNG" alt="Image of free code camp completed html">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day4.PNG" alt="Image of free code camp completed stage" width="650">
 
 ### Resources
 
@@ -10,7 +19,7 @@
 
 ## Day 3
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day3.PNG" alt="Image of free code camp completed html">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day3.PNG" alt="Image of free code camp completed stage" width="650">
 
 ### Resources
 
