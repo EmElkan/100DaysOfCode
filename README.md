@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+## Day 7
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day7.PNG" alt="Image of free code camp completed stage" width="650">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 6
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day6.PNG" alt="Image of free code camp completed stage" width="650">
