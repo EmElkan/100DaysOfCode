@@ -2,6 +2,8 @@
 
 ## Day 9
 
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day9.PNG" alt="Image of free code camp completed stage" width="650">
+
 ### Resources
 
 - https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero
