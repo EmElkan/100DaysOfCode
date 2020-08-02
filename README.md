@@ -75,7 +75,7 @@ Basic chatbot created with the Python ChatterBot library.
 
 ## Day 1
 
-Inverting an image in python hooked up to a feature flag.
+Inverting an image using the Python Pillow library hooked up to a feature flag.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/pil-flag.gif" alt="Gif of pycharm and catconfig">
 
