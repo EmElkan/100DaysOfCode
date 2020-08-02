@@ -54,6 +54,8 @@
 
 ## Day 3
 
+Started FreeCodeCamp's 'Responsive Web Design Certification'.
+
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day3.PNG" alt="Image of free code camp completed stage" width="650">
 
 ### Resources
@@ -61,6 +63,8 @@
 - https://www.freecodecamp.org/
 
 ## Day 2
+
+Basic chatbot created with the Python ChatterBot library.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/chat-bot.gif" alt="Gif of terminal">
 
@@ -70,6 +74,8 @@
 - https://github.com/gunthercox/chatterbot-corpus
 
 ## Day 1
+
+Inverting an image in python hooked up to a feature flag.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/pil-flag.gif" alt="Gif of pycharm and catconfig">
 
