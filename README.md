@@ -2,6 +2,8 @@
 
 ## Day 9
 
+Website automation using Cypress.
+
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day9.PNG" alt="Image of free code camp completed stage" width="650">
 
 ### Resources
