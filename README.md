@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+## Day 9
+
+### Resources
+
+- https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero
+- https://github.com/Postavshik/ngx-cypress-test
+- https://www.cypress.io/
+
 ## Day 8
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day8.PNG" alt="Image of free code camp completed stage" width="650">
