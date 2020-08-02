@@ -131,3 +131,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+#Dependencies
+/node_modules
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+/docs
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
