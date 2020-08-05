@@ -1,10 +1,21 @@
 # 100DaysOfCode
 
+## Day 12
+
+FreeCodeCamp [Survey Form](https://codepen.io/emelkan/pen/NWNKeRm) project.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day12.PNG" alt="Image of survey form" width="650">
+
+### Resources
+
+- https://www.freecodecamp.org/
+- https://www.w3schools.com/
+
 ## Day 11
 
 FreeCodeCamp [Tribute page](https://codepen.io/emelkan/pen/KKzPMWr) project.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day11.PNG" alt="Image of free code camp completed stage" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day11.PNG" alt="Image of code snippet" width="650">
 
 ### Resources
 
