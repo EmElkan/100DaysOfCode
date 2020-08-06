@@ -4,7 +4,7 @@
 
 FreeCodeCamp [Product Page](https://codepen.io/emelkan/pen/YzqzZRv) project.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day13.gif" alt="Gif of subscribe button" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day13.gif" alt="Gif of subscribe button" width="450">
 
 ### Resources
 
