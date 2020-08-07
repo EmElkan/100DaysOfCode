@@ -4,7 +4,7 @@
 
 FreeCodeCamp [Technical Document](https://codepen.io/emelkan/pen/dyMyEGj) project.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day14.png" alt="Image of free code camp completed stage" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day14.PNG" alt="Image of free code camp completed stage" width="450">
 
 ### Resources
 
