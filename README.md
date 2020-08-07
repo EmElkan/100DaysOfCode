@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 14
+
+FreeCodeCamp [Technical Document](https://codepen.io/emelkan/pen/dyMyEGj) project.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day14.png" alt="Image of free code camp completed stage" width="450">
+
+### Resources
+
+- https://www.freecodecamp.org/
+- https://www.w3schools.com/
+
 ## Day 13
 
 FreeCodeCamp [Product Page](https://codepen.io/emelkan/pen/YzqzZRv) project.
