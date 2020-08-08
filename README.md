@@ -1,10 +1,22 @@
 # 100DaysOfCode
 
+## Day 15
+
+FreeCodeCamp Personal Portfolio.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day15.PNG" alt="Image of free code camp completed stage" width="650">
+
+### Resources
+
+- https://www.freecodecamp.org/
+- https://www.w3schools.com/
+
+
 ## Day 14
 
-FreeCodeCamp [Technical Document](https://codepen.io/emelkan/pen/dyMyEGj) project.
+FreeCodeCamp Technical Document project.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day14.PNG" alt="Image of free code camp completed stage" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day14.gif" alt="Gif of technical document" width="450">
 
 ### Resources
 
@@ -13,7 +25,7 @@ FreeCodeCamp [Technical Document](https://codepen.io/emelkan/pen/dyMyEGj) projec
 
 ## Day 13
 
-FreeCodeCamp [Product Page](https://codepen.io/emelkan/pen/YzqzZRv) project.
+FreeCodeCamp Product Page project.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day13.gif" alt="Gif of subscribe button" width="450">
 
@@ -25,7 +37,7 @@ FreeCodeCamp [Product Page](https://codepen.io/emelkan/pen/YzqzZRv) project.
 
 ## Day 12
 
-FreeCodeCamp [Survey Form](https://codepen.io/emelkan/pen/NWNKeRm) project.
+FreeCodeCamp Survey Form project.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day12.PNG" alt="Image of survey form" width="650">
 
