@@ -2,6 +2,8 @@
 
 ## Day 15
 
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/FreeCodeCampWeb.png" alt="Image of free code camp web certificate" width="650">
+
 FreeCodeCamp Personal Portfolio.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day15.PNG" alt="Image of free code camp completed stage" width="650">
