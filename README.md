@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+## Day 16
+
+Improved portfolio layout and styling.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day16.gif" alt="Gif improved portfolio" width="450">
+
 ## Day 15
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/FreeCodeCampWeb.png" alt="Image of free code camp web certificate" width="650">
