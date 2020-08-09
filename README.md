@@ -6,6 +6,12 @@ Improved portfolio layout and styling.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day16.gif" alt="Gif improved portfolio" width="450">
 
+### Resources
+
+- https://www.w3schools.com/
+- https://codepen.io/
+
+
 ## Day 15
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/FreeCodeCampWeb.png" alt="Image of free code camp web certificate" width="650">
