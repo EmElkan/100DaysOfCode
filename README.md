@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 17
+
+Started FreeCodeCamp's 'Data Visualization with D3'.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day17.PNG" alt="Image of code snippet" width="450">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 16
 
 Improved portfolio layout and styling.
