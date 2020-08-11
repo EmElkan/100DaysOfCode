@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 18
+
+More 'Data Visualization with D3'.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day18.PNG" alt="Image of code snippet" width="450">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
+
 ## Day 17
 
 Started FreeCodeCamp's 'Data Visualization with D3'.
