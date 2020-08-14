@@ -1,6 +1,17 @@
 # 100DaysOfCode
 
-## Day 19
+## Day 21
+
+Getting started with Angular.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day21.gif" alt="Gif of angular test app" width="400">
+
+### Resources
+
+- https://angular.io/start
+
+
+## Day 20
 
 More 'Data Visualization with D3'.
 
