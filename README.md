@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 22
+
+More Angular.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day22.gif" alt="Gif of angular test app" width="400">
+
+### Resources
+
+- https://angular.io/start
+
+
 ## Day 21
 
 Getting started with Angular.
