@@ -2,6 +2,17 @@
 
 ## Day 22
 
+Getting started with MonoGame.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day23.gif" alt="Gif of angular test app" width="500">
+
+### Resources
+
+- https://docs.monogame.net/index.html
+- https://docs.monogame.net/articles/getting_started/0_getting_started.html
+
+## Day 22
+
 More Angular.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day22.gif" alt="Gif of angular test app" width="400">
