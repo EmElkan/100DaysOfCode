@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+## Day 24
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloLearnHTML.png" alt="Image of solo learn html certificate" width="550">
+
+### Resources
+
+- https://www.sololearn.com/
+
 ## Day 23
 
 Getting started with MonoGame.
