@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 25
+
+Basic JavaScript with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/Day25.PNG" alt="Image of scatter chart" width="550">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 24
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloLearnHTML.png" alt="Image of solo learn html certificate" width="550">
