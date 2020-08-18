@@ -4,7 +4,7 @@
 
 Basic JavaScript with FreeCodeCamp.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/Day25.PNG" alt="Image of scatter chart" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/Day25.PNG" alt="Image of free code camp stage" width="550">
 
 ### Resources
 
