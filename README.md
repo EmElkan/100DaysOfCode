@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 26
+
+Writing performance tests to run with k6.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day26.PNG" alt="Image of code snippet" width="650">
+
+### Resources
+
+- https://k6.io/docs/
+
+
 ## Day 25
 
 Basic JavaScript with FreeCodeCamp.
