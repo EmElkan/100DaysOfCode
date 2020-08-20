@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 27
+
+More Basic JavaScript with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day27.PNG" alt="Image of free code camp stage" width="550">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 26
 
 Writing performance tests to run with k6.
