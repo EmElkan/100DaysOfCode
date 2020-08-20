@@ -15,6 +15,7 @@ More Basic JavaScript with FreeCodeCamp.
 Writing performance tests to run with k6.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day26.PNG" alt="Image of code snippet" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day26.gif" alt="Image of code snippet" width="450">
 
 ### Resources
 
