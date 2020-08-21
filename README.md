@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 28
+
+JavaScript with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day28.PNG" alt="Image of code snippet" width="400">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
+
 ## Day 27
 
 More Basic JavaScript with FreeCodeCamp.
