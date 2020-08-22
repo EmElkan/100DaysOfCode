@@ -4,11 +4,16 @@
 
 API testing with assertions in javascript.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day29.PNG" alt="Image of code snippet" width="400">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day29.PNG" alt="Image of code snippet" width="450">
+
+Javascript with FreeCodeCamp
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day29-2.PNG" alt="Image of FreeCodeCamp stage" width="500">
 
 ### Resources
 
 - https://learning.postman.com/docs/writing-scripts/intro-to-scripts/
+- https://www.freecodecamp.org/
 
 
 ## Day 28
