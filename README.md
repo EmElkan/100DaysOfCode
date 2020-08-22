@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 29
+
+API testing with assertions in javascript.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day29.PNG" alt="Image of code snippet" width="400">
+
+### Resources
+
+- https://learning.postman.com/docs/writing-scripts/intro-to-scripts/
+
+
 ## Day 28
 
 JavaScript with FreeCodeCamp.
