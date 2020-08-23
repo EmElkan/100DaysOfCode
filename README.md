@@ -1,5 +1,14 @@
 # 100DaysOfCode
 
+## Day 30
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day30.PNG" alt="Image of FreeCodeCamp stage" width="500">
+
+### Resources
+
+- https://www.freecodecamp.org/
+
+
 ## Day 29
 
 API testing with assertions in javascript.
