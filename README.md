@@ -1,5 +1,14 @@
 # 100DaysOfCode
 
+## Day 31
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloCSS.png" alt="Image of solo learn css certificate" width="550">
+
+### Resources
+
+- https://www.sololearn.com/
+
+
 ## Day 30
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day30.PNG" alt="Image of FreeCodeCamp stage" width="500">
