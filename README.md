@@ -2,6 +2,10 @@
 
 ## Day 31
 
+More CSS!
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day30.gif" alt="Fancy about button" width="250">
+
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloCSS.png" alt="Image of solo learn css certificate" width="550">
 
 ### Resources
