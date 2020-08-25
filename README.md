@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 32
+
+Statistics Tutorial with Python.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day32.PNG" alt="Image of code snippet" width="450">
+
+### Resources
+
+- https://www.youtube.com/watch?v=YCPYNXtwKAc
+
 ## Day 31
 
 More CSS!
