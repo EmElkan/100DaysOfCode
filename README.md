@@ -4,7 +4,7 @@
 
 Statistics Tutorial with Python continued.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day33.PNG" alt="Image of code snippet" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day33.PNG" alt="Image of code snippet" width="750">
 
 ### Resources
 
