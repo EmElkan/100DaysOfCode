@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-## Day 33
+## Day 34
 
 Range of data in Python.
 
