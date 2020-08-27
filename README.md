@@ -2,6 +2,8 @@
 
 ## Day 34
 
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloPythonData.jpg" alt="Image of solo learn html certificate" width="550">
+
 Range of data in Python.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day34.PNG" alt="Image of code snippet" width="800">
