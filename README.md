@@ -2,9 +2,19 @@
 
 ## Day 33
 
+Range of data in Python.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day34.PNG" alt="Image of code snippet" width="800">
+
+### Resources
+
+- https://www.youtube.com/watch?v=r_SyYZ_nZNI
+
+## Day 33
+
 Statistics Tutorial with Python continued.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day33.PNG" alt="Image of code snippet" width="750">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day33.PNG" alt="Image of code snippet" width="800">
 
 ### Resources
 
