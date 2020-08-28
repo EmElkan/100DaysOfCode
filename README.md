@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 35
+
+Getting started with Jupyter Notebook.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day35.PNG" alt="Image of code snippet" width="500">
+
+### Resources
+
+- https://jupyter.org/
+- https://www.anaconda.com/
+
 ## Day 34
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/SoloPythonData.jpg" alt="Image of solo learn html certificate" width="550">
