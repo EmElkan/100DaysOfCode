@@ -4,7 +4,7 @@
 
 Numpy tutorial.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day37.PNG" alt="Image of code snippet" width="500">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day37.PNG" alt="Image of code snippet" width="450">
 
 ### Resources
 
