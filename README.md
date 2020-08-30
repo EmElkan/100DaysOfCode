@@ -12,7 +12,7 @@ Numpy tutorial.
 
 ## Day 36
 
-Making a new CV in markdown.
+Making a new [CV](https://emelkan.netlify.app/cv/) in markdown.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day36.PNG" alt="Image of code snippet" width="500">
 
