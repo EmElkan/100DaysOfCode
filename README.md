@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 37
+
+Numpy tutorial.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day37.PNG" alt="Image of code snippet" width="500">
+
+### Resources
+
+- https://www.youtube.com/watch?v=8Y0qQEh7dJg&t=55s
+
 ## Day 36
 
 Making a new CV in markdown.
