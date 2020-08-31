@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 38
+
+Pandas tutorial.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day38.PNG" alt="Image of code snippet" width="450">
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day38_2.PNG" alt="Image of code snippet" width="350">
+
+### Resources
+
+- https://www.youtube.com/watch?v=PcvsOaixUh8
+
 ## Day 37
 
 Numpy tutorial.
