@@ -1,5 +1,27 @@
 # 100DaysOfCode
 
+## Day 40
+
+Matplotlib tutorial continued.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day40.png" alt="Image of graph" width="450">
+
+### Resources
+
+- https://www.youtube.com/watch?v=wB9C0Mz9gSo&t=307s
+
+
+## Day 39
+
+Matplotlib tutorial.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day39.PNG" alt="Image of code snippet and graph" width="450">
+
+### Resources
+
+- https://www.youtube.com/watch?v=wB9C0Mz9gSo&t=307s
+
+
 ## Day 38
 
 Pandas tutorial.
