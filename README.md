@@ -9,6 +9,7 @@ Matplotlib tutorial continued.
 ### Resources
 
 - https://www.youtube.com/watch?v=wB9C0Mz9gSo&t=307s
+- https://problemsolvingwithpython.com/
 
 
 ## Day 39
