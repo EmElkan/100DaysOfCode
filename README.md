@@ -15,7 +15,7 @@ Matplotlib tutorial continued.
 
 Matplotlib tutorial.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day39.PNG" alt="Image of code snippet and graph" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day39.PNG" alt="Image of code snippet and graph" width="550">
 
 ### Resources
 
