@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 42
+
+Seaborn tutorial continued.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day42.png" alt="Image of graph" width="450">
+
+### Resources
+
+- https://www.youtube.com/watch?v=6GUZXDef2U0
+- https://problemsolvingwithpython.com/
+- https://matplotlib.org/
+
 ## Day 41
 
 Following along with a Seaborn tutorial.
