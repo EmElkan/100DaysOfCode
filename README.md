@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 43
+
+Snake game tutorial with Python.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day43.gif" alt="Gif of snake game" width="550">
+
+### Resources
+
+- https://www.youtube.com/watch?v=BP7KMlbvtOo
+
 ## Day 42
 
 Seaborn tutorial continued.
