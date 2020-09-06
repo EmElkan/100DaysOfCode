@@ -12,7 +12,7 @@ Made a simple [Twitter bot](https://twitter.com/ControlRoomBot).
 
 ## Day 43
 
-Snake game tutorial with Python.
+Snake game with Python.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day43.gif" alt="Gif of snake game" width="550">
 
