@@ -2,9 +2,9 @@
 
 ## Day 44
 
-Made a simple Twitter bot.
+Made a simple [Twitter bot](https://twitter.com/ControlRoomBot).
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day44.png" alt="Image of Twitter page" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day44.png" alt="Image of Twitter page" width="550">
 
 ### Resources
 
