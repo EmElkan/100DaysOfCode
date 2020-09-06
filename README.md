@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 44
+
+Made a simple Twitter bot.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day44.png" alt="Image of Twitter page" width="450">
+
+### Resources
+
+- https://www.tweepy.org/
+
 ## Day 43
 
 Snake game tutorial with Python.
