@@ -3,13 +3,13 @@ import time
 import os
 
 
-os.environ["CONSUMER_KEY"] = CONSUMER_KEY
-os.environ["CONSUMER_SECRET"] = CONSUMER_SECRET
-os.environ["ACCESS_KEY"] = ACCESS_KEY
-os.environ["ACCESS_SECRET"] = ACCESS_SECRET
+CON_KEY = os.getenv("CONSUMER_KEY")
+CON_SECRET = os.getenv("CONSUMER_SECRET")
+ACC_KEY = os.getenv("ACCESS_KEY")
+ACC_SECRET = os.getenv("ACCESS_SECRET")
 
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+auth = tweepy.OAuthHandler(CON_KEY, CON_SECRET)
+auth.set_access_token(ACC_KEY, ACC_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 for tweet in tweepy.Cursor(api.search,
