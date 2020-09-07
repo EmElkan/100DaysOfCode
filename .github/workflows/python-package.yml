@@ -17,11 +17,6 @@ jobs:
       with:
         python-version: '3.7' 
         architecture: 'x64'
-      env:
-        CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
-        CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
-        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
-        ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
       
     - name: Install dependencies
       run: |
@@ -30,3 +25,8 @@ jobs:
 
     - name: Run script
       run: python ./twitter-bot/twitter_bot.py
+      env:
+        CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+        CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+        ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+        ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
