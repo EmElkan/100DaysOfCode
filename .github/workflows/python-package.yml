@@ -3,9 +3,8 @@
 
 name: Python package
 
-on:
-  schedule:
-    - cron:  '0 0 * * *'
+on: push
+
 
 jobs:
   build:
@@ -24,4 +23,4 @@ jobs:
         pip install tweepy
 
     - name: Run script
-      run: python main.py
+      run: python ./twitter-bot/main.py
