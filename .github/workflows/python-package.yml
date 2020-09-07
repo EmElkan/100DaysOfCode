@@ -23,4 +23,4 @@ jobs:
         pip install tweepy
 
     - name: Run script
-      run: python ./twitter-bot/main.py
+      run: python ./twitter-bot/twitter_bot.py
