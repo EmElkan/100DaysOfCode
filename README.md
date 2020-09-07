@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 45
+
+Started reserching and setting up a GitHub action.
+
+### Resources
+
+- https://docs.github.com/en/actions
+- https://crontab.guru/once-a-day
+- https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
+
 ## Day 44
 
 Made a simple [Twitter bot](https://twitter.com/ControlRoomBot).
