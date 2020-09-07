@@ -1,9 +1,9 @@
 import tweepy
 import time
-from secrets import *
 
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+
+auth = tweepy.OAuthHandler(${{ secrets.CONSUMER_KEY }}, ${{ secrets.CONSUMER_SECRET }})
+auth.set_access_token(${{ secrets.ACCESS_KEY }}, ${{ secrets.ACCESS_SECRET }})
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 
