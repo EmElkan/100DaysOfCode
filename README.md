@@ -2,7 +2,7 @@
 
 ## Day 46
 
-GitHub action working with secrets, scheduled to run daily.
+GitHub action working with secrets, scheduled to run daily at 00:00.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of github action" width="600">
 
