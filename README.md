@@ -1,8 +1,23 @@
 # 100DaysOfCode
 
+## Day 46
+
+GitHub action working with secrets, scheduled to run daily.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of github action" width="600">
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46-2.png" alt="Image of code snippet" width="380">
+
+### Resources
+
+- https://able.bio/rhett/how-to-set-and-get-environment-variables-in-python--274rgt5
+- https://docs.github.com/en/actions
+
 ## Day 45
 
-Started reserching and setting up a GitHub action.
+Started setting up a GitHub action.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day45.png" alt="Image of yaml script" width="350">
 
 ### Resources
 
