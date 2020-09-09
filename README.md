@@ -4,7 +4,7 @@
 
 Writing performance testing scripts to run with k6.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of code snippet" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of k6 output" width="650">
 
 ### Resources
 
@@ -14,7 +14,7 @@ Writing performance testing scripts to run with k6.
 
 GitHub action working with secrets, scheduled to run daily at 00:00.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of code snippet" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of action success" width="650">
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46-2.png" alt="Image of code snippet" width="380">
 
