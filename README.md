@@ -1,17 +1,14 @@
 # 100DaysOfCode
 
-## Day 46
+## Day 47
 
-GitHub action working with secrets, scheduled to run daily at 00:00.
+Writing performance testing scripts to run with k6.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of github action" width="600">
-
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46-2.png" alt="Image of code snippet" width="380">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of code snippet" width="550">
 
 ### Resources
 
-- https://able.bio/rhett/how-to-set-and-get-environment-variables-in-python--274rgt5
-- https://docs.github.com/en/actions
+- https://k6.io/docs/
 
 ## Day 45
 
