@@ -4,7 +4,7 @@
 
 Writing performance testing scripts to run with k6.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of code snippet" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of code snippet" width="650">
 
 ### Resources
 
