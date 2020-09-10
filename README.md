@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 48
+
+First Blazor App.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day48.png" alt="Image of blazor app" width="500">
+
+### Resources
+
+- https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
+
 ## Day 47
 
 Writing performance testing scripts to run with k6.
