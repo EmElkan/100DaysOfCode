@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 49
+
+API testing with Newman.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day49.PNG" alt="Image of newman output" width="500">
+
+### Resources
+
+- https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+
 ## Day 48
 
 First Blazor App.
@@ -14,7 +24,7 @@ First Blazor App.
 
 Writing performance testing scripts to run with k6.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of k6 output" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of k6 output" width="600">
 
 ### Resources
 
