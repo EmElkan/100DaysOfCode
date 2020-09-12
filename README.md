@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 50
+
+More Blazor.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day50.gif" alt="Gif of blazor todo list" width="500">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-3.1
+
 ## Day 49
 
 API testing with Newman.
