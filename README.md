@@ -4,9 +4,9 @@
 
 Creating a web API with ASP.NET Core.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51.png" alt="Image of Postman post request" width="550">
-
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51-2.png" alt="Image of code snippet" width="550">
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51.png" alt="Image of Postman post request" width="550">
 
 ### Resources
 
