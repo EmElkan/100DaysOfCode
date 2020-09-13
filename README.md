@@ -1,5 +1,18 @@
 # 100DaysOfCode
 
+## Day 51
+
+Creating a web API with ASP.NET Core.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51.png" alt="Image of Postman post request" width="550">
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51-2.png" alt="Image of code snippet" width="550">
+
+### Resources
+
+- https://docs.microsoft.com/en-gb/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code
+
+
 ## Day 50
 
 More Blazor.
