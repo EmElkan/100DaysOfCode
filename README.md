@@ -4,7 +4,7 @@
 
 Setting up a pipeline in Azure.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="400">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="500">
 
 
 ### Resources
