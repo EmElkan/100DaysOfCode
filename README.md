@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 52
+
+Setting up a pipeline in Azure.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="400">
+
+
+### Resources
+
+- https://docs.microsoft.com/en-gb/azure/devops/pipelines/?view=azure-devops
+- https://medium.com/@ganeshsirsi/how-to-run-owasp-zap-security-tests-part-of-azure-devops-ci-cd-pipeline-484da8793a12
+
 ## Day 51
 
 Creating a web API with ASP.NET Core.
