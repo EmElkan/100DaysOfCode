@@ -1,10 +1,22 @@
 # 100DaysOfCode
 
+## Day 53
+
+More pipeline things.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day53.png" alt="Image of pipeline tasks" width="450">
+
+
+### Resources
+
+- https://docs.microsoft.com/en-gb/azure/devops/pipelines/?view=azure-devops
+- https://medium.com/younited-tech-blog/integrate-automated-test-in-azure-devops-using-the-postman-api-288f5566bf11
+
 ## Day 52
 
 Setting up a pipeline in Azure.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="500">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="450">
 
 
 ### Resources
