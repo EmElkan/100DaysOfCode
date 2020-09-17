@@ -1,4 +1,4 @@
-Limport tweepy
+import tweepy
 import time
 import os
 
