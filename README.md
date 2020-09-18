@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 54
+
+Javascript with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="450">
+
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 53
 
 More pipeline things.
