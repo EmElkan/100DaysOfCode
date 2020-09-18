@@ -4,7 +4,7 @@
 
 Javascript with FreeCodeCamp.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="350">
 
 
 ### Resources
