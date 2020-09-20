@@ -4,7 +4,7 @@
 
 Fixing broken scripts.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day56.png" alt="Image of code snippet" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day56.png" alt="Image of code snippet">
 
 
 ### Resources
@@ -16,7 +16,7 @@ Fixing broken scripts.
 
 Quality assurance and testing with Chai.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day55.png" alt="Image of code snippet" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day55.png" alt="Image of code snippet">
 
 
 ### Resources
@@ -28,7 +28,7 @@ Quality assurance and testing with Chai.
 
 Javascript with FreeCodeCamp.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="300">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet">
 
 
 ### Resources
@@ -39,7 +39,7 @@ Javascript with FreeCodeCamp.
 
 More pipeline things.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day53.png" alt="Image of pipeline tasks" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day53.png" alt="Image of pipeline tasks">
 
 
 ### Resources
@@ -51,7 +51,7 @@ More pipeline things.
 
 Setting up a pipeline in Azure.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="600">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet">
 
 
 ### Resources
@@ -63,9 +63,9 @@ Setting up a pipeline in Azure.
 
 Creating a web API with ASP.NET Core.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51-2.png" alt="Image of code snippet" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51-2.png" alt="Image of code snippet">
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51.png" alt="Image of Postman post request" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day51.png" alt="Image of Postman post request">
 
 ### Resources
 
@@ -76,7 +76,7 @@ Creating a web API with ASP.NET Core.
 
 More Blazor.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day50.gif" alt="Gif of blazor todo list" width="500">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day50.gif" alt="Gif of blazor todo list">
 
 ### Resources
 
@@ -86,7 +86,7 @@ More Blazor.
 
 API testing with Newman.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day49.PNG" alt="Image of newman output" width="500">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day49.PNG" alt="Image of newman output">
 
 ### Resources
 
@@ -96,7 +96,7 @@ API testing with Newman.
 
 First Blazor App.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day48.png" alt="Image of blazor app" width="500">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day48.png" alt="Image of blazor app">
 
 ### Resources
 
@@ -106,7 +106,7 @@ First Blazor App.
 
 Writing performance testing scripts to run with k6.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of k6 output" width="600">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day47.png" alt="Image of k6 output">
 
 ### Resources
 
@@ -116,9 +116,9 @@ Writing performance testing scripts to run with k6.
 
 GitHub action working with secrets, scheduled to run daily at 00:00.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of action success" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46.png" alt="Image of action success">
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46-2.png" alt="Image of code snippet" width="380">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day46-2.png" alt="Image of code snippet">
 
 
 ### Resources
@@ -131,7 +131,7 @@ GitHub action working with secrets, scheduled to run daily at 00:00.
 
 Started setting up a GitHub action.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day45.png" alt="Image of yaml script" width="350">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day45.png" alt="Image of yaml script">
 
 ### Resources
 
@@ -143,7 +143,7 @@ Started setting up a GitHub action.
 
 Made a simple [Twitter bot](https://twitter.com/ControlRoomBot).
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day44.png" alt="Image of Twitter page" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day44.png" alt="Image of Twitter page">
 
 ### Resources
 
@@ -153,7 +153,7 @@ Made a simple [Twitter bot](https://twitter.com/ControlRoomBot).
 
 Snake game with Python.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day43.gif" alt="Gif of snake game" width="550">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day43.gif" alt="Gif of snake game">
 
 ### Resources
 
