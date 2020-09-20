@@ -1,10 +1,34 @@
 # 100DaysOfCode
 
+## Day 56
+
+Fixing broken scripts.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day56.png" alt="Image of code snippet" width="650">
+
+
+### Resources
+
+- https://k6.io/docs/using-k6/http-debugging
+
+
+## Day 55
+
+Quality assurance and testing with Chai.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day55.png" alt="Image of code snippet" width="650">
+
+
+### Resources
+
+- https://www.freecodecamp.org/
+
+
 ## Day 54
 
 Javascript with FreeCodeCamp.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="350">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day54.png" alt="Image of code snippet" width="300">
 
 
 ### Resources
@@ -15,7 +39,7 @@ Javascript with FreeCodeCamp.
 
 More pipeline things.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day53.png" alt="Image of pipeline tasks" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day53.png" alt="Image of pipeline tasks" width="550">
 
 
 ### Resources
@@ -27,7 +51,7 @@ More pipeline things.
 
 Setting up a pipeline in Azure.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="450">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day52.png" alt="Image of code snippet" width="600">
 
 
 ### Resources
