@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 57
+
+Adding WhiteSorce Bolt to pipelines.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day57.png" alt="Image of report">
+
+
+### Resources
+
+- https://bolt.whitesourcesoftware.com/
+
+
 ## Day 56
 
 Fixing broken scripts.
