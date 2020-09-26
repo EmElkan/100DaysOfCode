@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 58
+
+New Cypress project.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day58.png" alt="Image of code snippet">
+
+
+### Resources
+
+- https://www.cypress.io/
+
+
 ## Day 57
 
 Adding WhiteSorce Bolt to pipelines.
