@@ -14,7 +14,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 for tweet in tweepy.Cursor(api.search,
                            q="#heroesinheadsets OR #InternationalControlRoomWeek OR #ambulancetrusts OR #controlroom OR #fireandrescue OR #emergencyservices OR #callhandlers",
-                           lang="en").items(5):
+                           lang="en").items(8):
     try:
         print('Tweet successful')
         tweet.retweet()
