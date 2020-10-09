@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 59
+
+Quality assurance and testing with Chai.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day59.png" alt="Image of code snippet" width="650">
+
+
+### Resources
+
+- https://www.freecodecamp.org/
+
 ## Day 58
 
 New Cypress project.
@@ -38,7 +49,7 @@ Fixing broken scripts.
 
 ## Day 55
 
-Quality assurance and testing with Chai.
+Started Quality assurance and testing with Chai.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day55.png" alt="Image of code snippet">
 
