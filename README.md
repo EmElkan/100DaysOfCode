@@ -1,10 +1,21 @@
 # 100DaysOfCode
 
+## Day 60
+
+Queries in Azure Monitor Workbooks.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day60.png" alt="Image of code snippet">
+
+
+### Resources
+
+- https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview
+
 ## Day 59
 
 Quality assurance and testing with Chai.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day59.png" alt="Image of code snippet" width="650">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day59.png" alt="Image of freecodecamp stage completion" width="650">
 
 
 ### Resources
