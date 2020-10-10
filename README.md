@@ -4,7 +4,7 @@
 
 Queries in Azure Monitor Workbooks.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day60.png" alt="Image of code snippet">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day60new.png" alt="Image of code snippet">
 
 
 ### Resources
