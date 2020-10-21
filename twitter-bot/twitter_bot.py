@@ -13,7 +13,7 @@ auth.set_access_token(ACC_KEY, ACC_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 for tweet in tweepy.Cursor(api.search,
-                           q="#InternationalControlRoomWeek OR #teamlas OR #999WYE OR #emergencyservices OR #callhandlers OR #fireandrescue OR #controlroom",
+                           q="#InternationalControlRoomWeek OR #teamlas OR #999WYE OR #emergencyservices OR #callhandlers OR #fireandrescue OR #controlroom OR #ambulance",
                            lang="en").items(10):
     try:
         print('Tweet successful')
