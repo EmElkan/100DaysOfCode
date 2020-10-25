@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 61
+
+Colour picker in React.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day61.gif" alt="Gif of colour picker app">
+
+### Resources
+
+- https://www.youtube.com/watch?v=9DFjKFMdboc&feature=youtu.be
+
 ## Day 60
 
 Queries in Azure Monitor Workbooks.
