@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 62
+
+Setting up continous deployment in AWS
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day62.png" alt="Image of deploy pipline graphic">
+
+### Resources
+
+- https://aws.amazon.com/amplify/
+- https://welearncode.com/complete-beginners-guide-react-2020/
+
 ## Day 61
 
 Colour picker in React.
