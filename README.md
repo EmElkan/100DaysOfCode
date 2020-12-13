@@ -2,7 +2,7 @@
 
 ## Day 64
 
-Learning how to use WLS.
+Learning how to use Windows Subsystem for Linux (WSL).
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day64.png" alt="Image of terminal and webpage">
 
