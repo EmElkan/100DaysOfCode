@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 64
+
+Learning how to use WLS.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day64.png" alt="Image of terminal and webpage">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/
+
 ## Day 63
 
 Python text adventure game.
@@ -8,7 +18,7 @@ Python text adventure game.
 
 ### Resources
 
-http://inventwithpython.com/invent4thed/
+- http://inventwithpython.com/invent4thed/
 
 ## Day 62
 
