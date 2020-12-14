@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 65
+
+Introduction to git with Microsoft learn.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day65.png" alt="Image of terminal">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
+
+
 ## Day 64
 
 Learning how to use Windows Subsystem for Linux (WSL).
