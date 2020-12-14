@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 66
+
+ Introduction to Kubernetes with Microsoft learn.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day66.png" alt="Image of terminal">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/
+
 ## Day 65
 
 Introduction to git with Microsoft learn.
