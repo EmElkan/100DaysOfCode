@@ -4,7 +4,7 @@
 
 Learning c# basics.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day68.png" alt="Image of c# completed learning module badge">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day68.png" alt="Image of c# completed learning module badge" width="300">
 
 ### Resources
 
