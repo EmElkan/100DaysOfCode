@@ -1,5 +1,26 @@
 # 100DaysOfCode
 
+## Day 68
+
+Learning c# basics.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day68.png" alt="Image of c# completed learning module badge">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/
+
+## Day 67
+
+ Moving API tests from a Release pipeline to a YAML pipeline.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day67.png" alt="Image of yaml code block">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema
+- https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/
+
 ## Day 66
 
  Introduction to Kubernetes with Microsoft learn.
