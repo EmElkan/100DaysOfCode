@@ -2,7 +2,7 @@
 
 ## Day 69
 
-SpecFlow tutorial.
+Completed the SpecFlow tutorial.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day69.png" alt="Image of completed tutorial celebration">
 
