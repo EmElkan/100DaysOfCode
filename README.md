@@ -1,8 +1,20 @@
 # 100DaysOfCode
 
+## Day 70
+
+Learning more about Docker.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day70.png" alt="Image of docker file">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day70_2.png" alt="Image of terminal output">
+
+### Resources
+
+- https://www.docker.com/101-tutorial
+- https://testautomationu.applitools.com/scaling-tests-with-docker/
+
 ## Day 69
 
-Completed the SpecFlow tutorial.
+Trying out SpecFlow.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day69.png" alt="Image of completed tutorial celebration">
 
