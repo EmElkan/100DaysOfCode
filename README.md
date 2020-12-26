@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 71
+
+Following along with Dynamic Programming from FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day71.PNG" alt="Image of code">
+
+### Resources
+
+- https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
+- https://www.youtube.com/watch?v=oBt53YbR9Kk
+
 ## Day 70
 
 Learning more about Docker.
