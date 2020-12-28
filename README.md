@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 72
+
+More recursive problems and memoization.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day72.PNG" alt="Image of code">
+
+### Resources
+
+- https://www.youtube.com/watch?v=ngCos392W4w
+- https://www.python-course.eu/python3_memoization.php
+
 ## Day 71
 
 Following along with Dynamic Programming from FreeCodeCamp.
