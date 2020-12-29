@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 73
+
+Doodle Jump with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day73.PNG" alt="Image of doodle jump game">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day73_2.PNG" alt="Image of code">
+
+### Resources
+
+- https://www.youtube.com/watch?v=8xPsg6yv7TU
+
 ## Day 72
 
 More recursive problems and memoization.
