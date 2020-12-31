@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 74
+
+Creating a discord bot with FreeCodeCamp.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day74.PNG" alt="Image of a dog posted in discord">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day74_2.PNG" alt="Image of code">
+
+### Resources
+
+- https://www.youtube.com/watch?v=SPTfmiYiuok
+
 ## Day 73
 
 Doodle Jump with FreeCodeCamp.
