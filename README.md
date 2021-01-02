@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 75
+
+Creating a REST API with Python and Flask.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day75.PNG" alt="Image of code">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day75_2.PNG" alt="Image of terminal output">
+
+### Resources
+
+- https://www.youtube.com/watch?v=GMppyAPbLYk
+- https://devcamp.com/trails/python-api-development-with-flask/campsites/279/guides/how-to-build-delete-api-endpoint-flask-project-summary
+
 ## Day 74
 
 Creating a discord bot with FreeCodeCamp.
