@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 76
+
+Playing around with the Twilio API.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day76.PNG" alt="Image of code">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day76_2.PNG" alt="Image of sms message">
+
+### Resources
+
+- https://www.youtube.com/watch?v=GZvSYJDk-us
+- https://www.twilio.com/docs
+
 ## Day 75
 
 Creating a REST API with Python and Flask.
