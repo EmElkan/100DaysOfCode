@@ -2,6 +2,17 @@
 
 ## Day 76
 
+Completed a Compliments App tutorial.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day77_2.PNG" alt="Image of sms message">
+
+### Resources
+
+- https://www.youtube.com/watch?v=GZvSYJDk-us
+- https://www.twilio.com/docs
+
+## Day 76
+
 Playing around with the Twilio API.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day76.PNG" alt="Image of code">
