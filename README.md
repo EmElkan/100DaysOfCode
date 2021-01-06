@@ -2,7 +2,7 @@
 
 ## Day 76
 
-Completed a Compliments App tutorial.
+Completed a compliments app tutorial.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day77_2.PNG" alt="Image of sms message">
 
