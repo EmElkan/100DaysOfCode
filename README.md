@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 78
+
+Trying out Chaos Toolkit.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day78.PNG" alt="Image of chaos toolkit in terminal passing">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day78_2.PNG" alt="Image of chaos toolkit in terminal failing">
+
+### Resources
+
+- https://chaostoolkit.org/
+- https://www.linkedin.com/learning/devops-foundations-chaos-engineering/organized-chaos?u=84863210
+
 ## Day 77
 
 Completed a compliments app tutorial.
