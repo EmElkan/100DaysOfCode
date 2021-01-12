@@ -4,7 +4,8 @@
 
 Moving k6 from a release pipe to a YAML pipeline in Azure.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day79.PNG" alt="Image of YAML">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day79.PNG" alt="Image of YAML stage">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day79_2.PNG" alt="Image of YAML k6 template">
 
 ### Resources
 
