@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 79
+
+Moving k6 from a releae pipe to a YAML pipeline in Azure.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day79.PNG" alt="Image of YAML">
+
+### Resources
+
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops
+- https://github.com/k6io/example-azure-pipelines
+
 ## Day 78
 
 Trying out Chaos Toolkit.
