@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 80
+
+Setting up Lighthouse CI.    
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day80.PNG" alt="Image of Lighthouse HTML report snippet">
+
+### Resources
+
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)    
+- [Performance monitoring with Lighthouse CI](https://web.dev/lighthouse-ci/)     
+- [Pimp your Pipeline with Lighthouse CI](https://danielyefet.medium.com/pimp-your-pipeline-with-lighthouse-ci-75801a86a860)    
+
 ## Day 79
 
 Moving k6 from a release pipe to a YAML pipeline in Azure.
