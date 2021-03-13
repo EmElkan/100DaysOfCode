@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 81
+
+Learning about Webhooks.    
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day81.png" alt="Image of json response in Beeceptor">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day81_2.png" alt="Image of Discord notification">
+
+### Resources
+
+- [Webhooks for Beginners](https://www.youtube.com/watch?v=41NOoEz3Tzc&t=1s)
+- [Webhooks Course Notes](https://github.com/TwilioDevEd/webhooks-course/blob/main/notes.md)
+
 ## Day 80
 
 Setting up Lighthouse CI.    
