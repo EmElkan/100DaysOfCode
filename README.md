@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 82
+
+Trying LaunchDarkly.    
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day82.png" alt="Image of LaunchDarkly and code snippet">
+
+### Resources
+
+- [LaunchDarkly](https://launchdarkly.com/)
+
 ## Day 81
 
 Learning about Webhooks.    
