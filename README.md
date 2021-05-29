@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 83
+
+Playing around with Scrapy to get website updates.    
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day83.png" alt="Image of scraped rss feed in terminal">
+
+### Resources
+
+- [Scrapy](https://scrapy.org/)
+
 ## Day 82
 
 Trying LaunchDarkly.    
