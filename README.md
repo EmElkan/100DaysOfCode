@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 84
+
+Following along with 'Python Essential Libraries' on LinkedIn Learning.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day84.png" alt="Image of python code snippet">
+
+### Resources
+
+- [Python Essential Libraries - LinkedIn Learning](https://www.linkedin.com/learning/python-essential-libraries?u=84863210)
+
 ## Day 83
 
 Playing around with Scrapy to get website updates.    
