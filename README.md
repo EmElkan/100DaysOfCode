@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 86
+
+Number guessing game.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day86_2.png" alt="Image of arduboy code output">
+
+### Resources
+
+- [First Game Tutorial](https://community.arduboy.com/t/make-your-own-arduboy-game-part-5-your-first-game/7928)
+
 ## Day 85
 
 Setting up Arduino to use with my [Arduboy](https://shop.pimoroni.com/products/arduboy-fx-open-source-card-sized-gaming-board).
