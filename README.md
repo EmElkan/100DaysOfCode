@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 85
+
+Setting up Arduino to use with my [Arduboy](https://shop.pimoroni.com/products/arduboy-fx-open-source-card-sized-gaming-board).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day85_2.png" alt="Image of c++ code snippet">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day85.png" alt="Image of arduboy code output" width="450">
+
+### Resources
+
+- [Arduboy Quick Start](https://arduboy.com/quick-start/)
+
 ## Day 84
 
 Following along with 'Python Essential Libraries' on LinkedIn Learning.
@@ -12,7 +23,7 @@ Following along with 'Python Essential Libraries' on LinkedIn Learning.
 
 ## Day 83
 
-Playing around with Scrapy to get website updates.    
+Playing around with Scrapy and learning about web scraping.    
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day83.png" alt="Image of scraped rss feed in terminal">
 
