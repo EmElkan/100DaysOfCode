@@ -1,5 +1,15 @@
 # 100DaysOfCode
 
+## Day 87
+
+Completed C++ Essential Training with LinkedIn Learning.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day87.png" alt="Image of linkedin learning c++ certificate" width="500">
+
+### Resources
+
+- [C++ Essential Training](https://www.linkedin.com/learning/c-plus-plus-essential-training?u=84863210)
+
 ## Day 86
 
 Number guessing game.
