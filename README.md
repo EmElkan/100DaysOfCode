@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+## Day 90
+
+Writing API tests in [Postman](https://learning.postman.com/docs/getting-started/introduction/).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day90.PNG" alt="Image of react native app screenshot" width="750">
+
 ## Day 89
 
 Learning React Native with LinkedIn Learning.
