@@ -2,6 +2,12 @@
 
 ## Day 90
 
+Playing with [prettymaps](https://github.com/marceloprates/prettymaps).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day91.png" alt="Image of a stylised map of Hull, England." width="750">
+
+## Day 90
+
 Writing API tests in [Postman](https://learning.postman.com/docs/getting-started/introduction/).
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day90.PNG" alt="Image of react native app screenshot" width="750">
