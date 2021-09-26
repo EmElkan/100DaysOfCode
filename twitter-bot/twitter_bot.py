@@ -10,7 +10,7 @@ ACC_SECRET = os.getenv("ACCESS_SECRET")
 
 auth = tweepy.OAuthHandler(CON_KEY, CON_SECRET)
 auth.set_access_token(ACC_KEY, ACC_SECRET)
-api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+api = tweepy.API(auth, wait_on_rate_limit=True)
 
 for tweet in tweepy.Cursor(api.search,
                            q="#callhandlers OR #callhandler OR #fireandrescue OR #policecontrolroom OR #PolScotControl OR #scotamb OR #teamhumberside OR #ControlRoomHeroes OR #teamlas OR #999family",
