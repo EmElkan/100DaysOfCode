@@ -12,7 +12,7 @@ auth = tweepy.OAuthHandler(CON_KEY, CON_SECRET)
 auth.set_access_token(ACC_KEY, ACC_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
-for tweet in tweepy.Cursor(api.search,
+for tweet in tweepy.Cursor(api.search_tweets,
                            q="#callhandlers OR #callhandler OR #fireandrescue OR #policecontrolroom OR #PolScotControl OR #scotamb OR #teamhumberside OR #ControlRoomHeroes OR #teamlas OR #999family",
                            lang="en").items(10):
     try:
