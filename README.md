@@ -1,5 +1,12 @@
 # 100DaysOfCode
 
+## Day 92
+
+Learning about security flaws in web applications with [OWASP Juice Shop](https://github.com/juice-shop/juice-shop).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day92.png" alt="Image of a browser window showing script injection security flaw">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day92_2.png" alt="Image of logged in as admin challenge completed">
+
 ## Day 91
 
 Playing with [prettymaps](https://github.com/marceloprates/prettymaps).
