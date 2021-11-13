@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 93
+
+Trying out [GraphQL](https://graphql.org/).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day93.png" alt="Image of graphql mutation code and returned data">
+
+### Resources
+
+- [GraphQL Playground](https://www.graphqlbin.com/v2/new)   
+- [Learning GraphQL - LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-11292553/an-introduction-to-graphq)
+
 ## Day 92
 
 Learning about security flaws in web applications with [OWASP Juice Shop](https://github.com/juice-shop/juice-shop).
