@@ -5,6 +5,7 @@
 Phoenix LiveView tutorial. 
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day94.gif" alt="Gif of turning a light up to 100% and back down to 10% using buttons">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day94_2.png" alt="Image of code snippet">
 
 ### Resources
 
