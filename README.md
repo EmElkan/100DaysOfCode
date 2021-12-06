@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 94
+
+Phoenix LiveView tutorial. 
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day94.gif" alt="Gif of turning a light up to 100% and back down to 10% using buttons">
+
+### Resources
+
+- [Phoenix LiveView Starter](https://pragmaticstudio.com/courses/phoenix-liveview-starter)
+- [Phoenix Docs](https://hexdocs.pm/phoenix/Phoenix.html)
+
 ## Day 93
 
 Trying out [GraphQL](https://graphql.org/).
