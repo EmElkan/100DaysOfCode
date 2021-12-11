@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 95
+
+Started a Deep Learning with PyTorch Course.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day95_2.png" alt="Image of code snippet">
+
+### Resources
+
+- [Jovian](https://jovian.ai/)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp)
+- [PyTorch](https://pytorch.org/)
+
 ## Day 94
 
 Phoenix LiveView tutorial. 
