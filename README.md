@@ -2,9 +2,9 @@
 
 ## Day 97
 
-[Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2018) with LinkedIn Learning.
+[Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020) with LinkedIn Learning.
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day97.png" alt="Image of LinkedIn Learning certificate 'Python Essential Training'" width="700">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day97.png" alt="Image of LinkedIn Learning certificate 'Learning Python (2020)'" width="700">
 
 ## Day 96
 
