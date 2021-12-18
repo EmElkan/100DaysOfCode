@@ -1,5 +1,24 @@
 # 100DaysOfCode
 
+## Day 97
+
+[Python Essential Training](https://www.linkedin.com/learning/python-essential-training-2018) with LinkedIn Learning.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day97.png" alt="Image of LinkedIn Learning certificate 'Python Essential Training'" width="700">
+
+## Day 96
+
+Playing around with Python notebooks to generate images.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day96.png" alt="Image of ai generated art">
+
+### Resources
+
+- [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)     
+- [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)     
+- [Looking Glass AI](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G)
+- [GFPGAN](https://github.com/TencentARC/GFPGAN)
+
 ## Day 95
 
 Started a Deep Learning with PyTorch Course.
