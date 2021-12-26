@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 98
+
+[Self portrait project](https://www.instagram.com/0emelk/) using machine learning notebooks.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day98.png" alt="Image of ai generated women">
+
+### Resources
+
+- [Looking Glass AI](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G)
+- [Real-ESRGAN](https://colab.research.google.com/drive/1k2Zod6kSHEvraybHl50Lys0LerhyTMCo?usp=sharing)
+
 ## Day 97
 
 [Learning Python (2020)](https://www.linkedin.com/learning/learning-python-2020) with LinkedIn Learning.
