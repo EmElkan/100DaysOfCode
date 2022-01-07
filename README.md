@@ -2,7 +2,7 @@
 
 ## Day 98
 
-[Self portrait project](https://www.instagram.com/0emelk/) using machine learning notebooks.
+[Self portrait project](https://www.instagram.com/portrait_project_ai/) using machine learning notebooks.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day98.png" alt="Image of ai generated women">
 
