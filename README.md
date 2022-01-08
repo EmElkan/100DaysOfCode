@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+## Day 99
+
+Learning about [Web Fundamentals](https://www.instagram.com/portrait_project_ai/) with TryHackMe.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day99.png" alt="Image of completed try hack me moduals">
+
 ## Day 98
 
 [Self portrait project](https://www.instagram.com/portrait_project_ai/) using machine learning notebooks.
@@ -74,7 +80,7 @@ Learning about security flaws in web applications with [OWASP Juice Shop](https:
 
 ## Day 91
 
-Playing with [prettymaps](https://github.com/marceloprates/prettymaps).
+Playing with [prettymaps](https://github.com/marceloprates/prettymaps), a minimal Python library to draw customized maps from OpenStreetMap data.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day91.png" alt="Image of a stylised map of Hull, England." width="750">
 
