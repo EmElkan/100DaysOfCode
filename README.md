@@ -1,5 +1,20 @@
 # 100DaysOfCode
 
+## Day 100
+
+Using Pulumi to spin up an AWS S3 bucket, host some html, and tear it all down.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day100.png" alt="Image of python code - pulumi script to create s3 bucket in aws">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day100_2.png" alt="Image of objects in aws s3 bucket">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day100_3.png" alt="Image of terminal output - teardown">
+
+### Resources
+
+- [Infrastructure as Code - Crash Course](https://www.youtube.com/watch?v=EtEb40LE5zQ)
+- [Pulumi](https://www.pulumi.com/)
+- [Amazon S3](https://aws.amazon.com/s3/)
+
+
 ## Day 99
 
 Learning about [Web Fundamentals](https://www.instagram.com/portrait_project_ai/) with TryHackMe.
