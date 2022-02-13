@@ -1,5 +1,18 @@
 # 100DaysOfCode
 
+## Day 101
+
+Setting up Kali Linux on WSL2.
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day101.png" alt="Image of wsl2 terminal and remote kali linux desktop">
+
+### Resources
+
+- [Kali Linux on Windows](https://www.youtube.com/watch?v=AfVH54edAHU)    
+- [The Top 10 Things to Do After Installing Kali Linux](https://www.youtube.com/watch?v=8VL0K0rFgxw)    
+- [Kali Linux Metapackages](https://www.kali.org/docs/general-use/metapackages/)    
+
+
 ## Day 100
 
 Using Pulumi to spin up an AWS S3 bucket, host some html, and tear it all down.
@@ -107,23 +120,17 @@ Writing API tests in [Postman](https://learning.postman.com/docs/getting-started
 
 ## Day 89
 
-Learning React Native with LinkedIn Learning.
+[React Native](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=84863210) with LinkedIn Learning.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day89.jpg" alt="Image of react native app screenshot" width="650">
 
-### Resources
-
-- [Learning React Native](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=84863210)
 
 ## Day 88
 
-Intro to React tutorial.
+[Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day88.png" alt="Image of code and tic-tac-toe game" width="500">
 
-### Resources
-
-- [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 ## Day 87
 
