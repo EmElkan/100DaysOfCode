@@ -2,6 +2,12 @@
 
 ## Day 101
 
+Learning Go with [Codecademy](https://www.codecademy.com/learn/learn-go).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day102.png" alt="Image of codecademy task and code snippet" width="800">
+
+## Day 101
+
 Setting up Kali Linux on WSL2.
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day101.png" alt="Image of wsl2 terminal and remote kali linux desktop">
