@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-## Day 101
+## Day 102
 
 Learning Go with [Codecademy](https://www.codecademy.com/learn/learn-go).
 
