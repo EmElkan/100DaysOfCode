@@ -1,5 +1,17 @@
 # 100DaysOfCode
 
+## Day 103
+
+Trying out [PyScript](https://pyscript.net/). Hosted at: https://emelkan.github.io/wave/
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/chrome_QGLkMaRNZq.gif" alt="Gif of sine wave with range inputs" width="800">
+
+### Resources
+
+- [Combining the Power of Python and JavaScript Libraries](https://realpython.com/pyscript-python-in-browser/#combining-the-power-of-python-and-javascript-libraries)      
+- [How do I make JavaScript beep?](https://stackoverflow.com/questions/879152/how-do-i-make-javascript-beep)      
+
+
 ## Day 102
 
 Learning Go with [Codecademy](https://www.codecademy.com/learn/learn-go).
