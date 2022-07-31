@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+## Day 104
+
+Learning about [Elixir](https://elixir-lang.org/) with [Livebook](https://livebook.dev/).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day104_2.png" alt="Image of code in notebook cell">
+
+### Resources
+
+- [Introducing the Livebook Desktop app](https://news.livebook.dev/)
+- [Livebook for Elixir: Just What the Docs Ordered](https://blog.appsignal.com/2022/05/24/livebook-for-elixir-just-what-the-docs-ordered.html)
+
 ## Day 103
 
 Trying out [PyScript](https://pyscript.net/). Hosted at: https://emelkan.github.io/wave/
