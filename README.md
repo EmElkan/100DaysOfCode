@@ -1,5 +1,11 @@
 # 100DaysOfCode
 
+## Day 105
+
+Elixir basics with [Exercism](https://exercism.org/tracks/elixir).
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day230311.png" alt="Image of code in online editor">
+
 ## Day 104
 
 Learning about [Elixir](https://elixir-lang.org/) with [Livebook](https://livebook.dev/).
