@@ -1,14 +1,21 @@
 # 100DaysOfCode
 
+## Day 106
+
+More [Exercism](https://exercism.org/tracks/elixir) exercises, learning about anonymous functions and bit manipulation. 
+
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day230312.png" alt="Image of code in online editor" width="800">
+
+
 ## Day 105
 
-Elixir basics with [Exercism](https://exercism.org/tracks/elixir).
+Getting started on Elixir basics with [Exercism](https://exercism.org/tracks/elixir).
 
-<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day230311.png" alt="Image of code in online editor">
+<img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day230311_2.png" alt="Image of code in online editor" width="800">
 
 ## Day 104
 
-Learning about [Elixir](https://elixir-lang.org/) with [Livebook](https://livebook.dev/).
+[Elixir](https://elixir-lang.org/) with [Livebook](https://livebook.dev/).
 
 <img src="https://github.com/EmElkan/100DaysOfCode/blob/master/images/day104_2.png" alt="Image of code in notebook cell">
 
